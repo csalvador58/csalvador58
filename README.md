@@ -1,8 +1,6 @@
 # gm/ga, I'm Chris!
 
-I'm a **community taught developer**, a **tech enthusiast**, and **inspired by Web3** who strongly believes in lifelong learning to level up 🏆. A close second to coding is my passion as a **foodie** 🍱. I love tasting the masterpieces created by anyone and I find joy in using my creativity in the kitchen to cook my own version of it.  
-
-I'm open to connect with anyone who is along the same dev journey or if you find anything I can contribute to I'll be glad to bring in my past experiences from the Healthcare, Finance/Accounting, and Media audience measurement industries. 
+I'm a **community taught developer**, a **tech enthusiast**, and **inspired by Web3** who strongly believes in lifelong learning to level up 🏆.  I'm open to connect with anyone who is along the same dev journey or if you find anything I can contribute to I'll be glad to bring in my past experiences from the Healthcare, Finance/Accounting, and Media audience measurement industries. 
 
 Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) | [Discord](discordapp.com/users/569060434108350465) | [Lens](https://www.lensfrens.xyz/csalvador.lens)
 
