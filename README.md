@@ -1,4 +1,4 @@
-# gm/ga, I'm Chris!
+# gm/gm, I'm Chris!
 
 I'm a **community taught developer**, a **tech enthusiast**, and **inspired by Web3** who strongly believes in lifelong learning to level up 🏆.  I'm open to connect with anyone who is along the same dev journey or if you find anything I can contribute to I'll be glad to bring in my past experiences from the Healthcare, Finance/Accounting, and Media audience measurement industries. 
 
