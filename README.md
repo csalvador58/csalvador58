@@ -10,7 +10,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
-- 🔜 Pending     - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer Bootcamp.
+- ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer Bootcamp.
 - ⌛ In Progress - [Encode](https://www.encode.club/) Solidity Foundation Bootcamp.
 - ⌛ In Progress - [UW PCE](https://www.pce.uw.edu/) Front-end/Back-end development with Javascript certificate.
 - ⌛ In Progress - [Crypto Zombies](https://cryptozombies.io/)
