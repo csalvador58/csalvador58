@@ -11,10 +11,10 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 
 <!-- BLOG-POST-LIST:START -->
 - ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer Bootcamp.
-- ⌛ In Progress - [Encode](https://www.encode.club/) Solidity Foundation Bootcamp.
 - ⌛ In Progress - [UW PCE](https://www.pce.uw.edu/) Front-end/Back-end development with Javascript certificate.
-- ⌛ In Progress - [Crypto Zombies](https://cryptozombies.io/)
+- ⌛ In Progress - [Crypto Zombies](https://cryptozombies.io/).
 - ⌛ In Progress - [Odin Project](https://www.theodinproject.com/).
+- ✅ Dec 2022 - [Encode](https://www.encode.club/) Solidity Foundation Bootcamp.
 - ✅ Nov 2022 - Completed [ETH Global](https://ethglobal.com/) San Francisco 2022 Hackathon.
 - ✅ Oct 2022 - Completed freeCodeCamp / Class Central bootcamps in [Web Development](https://freecodecamp.org/certification/csalvador58/responsive-web-design) and [Javascript](https://freecodecamp.org/certification/csalvador58/javascript-algorithms-and-data-structures).
 - ✅ Sept 2022 - Completed 30 Days of Web3 from [WBW3](https://www.30daysofweb3.xyz/).
