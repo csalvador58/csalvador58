@@ -10,10 +10,10 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
-- ⌛ Pending - [ETH Global](https://ethglobal.com/) Tokyo 2023 Hackathon.
 - ⌛ In Progress - [UW PCE](https://www.pce.uw.edu/) Front-end/Back-end development with Javascript certificate.
 - ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer program.
 - ⌛ In Progress - [Crypto Zombies](https://cryptozombies.io/).
+- ✅ April 2023 - [ETH Global](https://ethglobal.com/) Tokyo 2023 Hackathon.
 - ✅ April 2023 - [Encode](https://www.encode.club/) Solidity Bootcamp Q1 2023.
 - ✅ Dec 2022 - [Encode](https://www.encode.club/) Solidity Foundation Bootcamp.
 - ✅ Dec 2022 - [Odin Project Foundations](https://www.theodinproject.com/).
