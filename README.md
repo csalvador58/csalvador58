@@ -10,6 +10,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
+- ⌛ Pending - [Encode](https://www.encode.club/) ZK Bootcamp Q3 2023.
 - ⌛ In Progress - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
 - ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer program.
 - ⌛ In Progress - [Crypto Zombies](https://cryptozombies.io/).
