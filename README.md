@@ -13,7 +13,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 - ⌛ In Progress - [Encode](https://www.encode.club/) ZK Bootcamp Q3 2023.
 - ⌛ In Progress - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
 - ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer program.
-- ✅ June 2023 - [UW PCE](https://www.pce.uw.edu/) Front-end/Back-end development with Javascript certificate.
+- ✅ June 2023 - [UW PCE](https://www.pce.uw.edu/) Full-Stack development with Javascript certificate.
 - ✅ April 2023 - [ETH Global](https://ethglobal.com/) Tokyo 2023 Hackathon.
 - ✅ April 2023 - [Encode](https://www.encode.club/) Solidity Bootcamp Q1 2023.
 - ✅ Dec 2022 - [Encode](https://www.encode.club/) Solidity Foundation Bootcamp.
