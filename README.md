@@ -2,8 +2,9 @@
 
 I'm a **developer**, a **tech enthusiast**, and **inspired by blockchain & cryptography**. I'm open to connect with anyone who is along the same dev journey or if you find anything I can contribute to I'll be glad to bring my experiences from the Healthcare, Finance/Accounting, and Consumer Media Research industries. 
 
-Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) | [Discord](discordapp.com/users/569060434108350465) | [Lens](https://www.lensfrens.xyz/csalvador.lens)
+👨‍💻 [ChrisSalvador.dev](https://chrissalvador.dev)
 
+Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) | [Discord](discordapp.com/users/569060434108350465) | [Lens](https://www.lensfrens.xyz/csalvador.lens)
 
 #### #KeepPushing #NeverStopLearning
 
