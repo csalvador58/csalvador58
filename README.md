@@ -11,10 +11,9 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
-- ⌛ In Progress - [Encode](https://www.encode.club/) ZK Bootcamp Q3 2023.
-- ⌛ In Progress - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
 - ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer program.
-- ⌛ In Progress - [Personal Project - My Pantry](https://github.com/csalvador58/project-mypantry)
+- ✅ August 2023 - [Encode](https://www.encode.club/) ZK Bootcamp Q3 2023.
+- ✅ August 2023 - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
 - ✅ June 2023 - [University of Washington](https://www.pce.uw.edu/) Full-Stack development with Javascript certificate.
   - [Frontend Project](https://github.com/csalvador58/uw-jscript320b-final-project-my-pantry), [Backend Project](https://github.com/csalvador58/uw-jscript330b-final-vendor-cred-backend)
 - ✅ April 2023 - [ETH Global](https://ethglobal.com/) Tokyo 2023 Hackathon.
