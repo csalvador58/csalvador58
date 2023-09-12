@@ -11,6 +11,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
+- ⌛ In Progress - [Encode](https://www.encode.club/digital-identity-hackathon) - Onyx by J.P. Morgan - Digital Identity Hackathon.
 - ⌛ In Progress - [Alchemy University](https://university.alchemy.com/) - Ethereum Developer program.
 - ✅ August 2023 - [Encode](https://www.encode.club/) ZK Bootcamp Q3 2023.
 - ✅ August 2023 - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
