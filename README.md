@@ -13,7 +13,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 <!-- BLOG-POST-LIST:START -->
 - ⌛ In Progress - [ETH Global](https://university.alchemy.com/) - ETHOnline 2023.
 - ⌛ In Progress - [Alchemy University](https://ethglobal.com/events/ethonline2023) - Ethereum Developer program.
-- ✅ October 2023 - [Encode](https://www.encode.club/digital-identity-hackathon) - Onyx by J.P. Morgan - Digital Identity Hackathon.
+- ✅ October 2023 - [Encode - Onyx by J.P. Morgan](https://www.encode.club/digital-identity-hackathon) - Digital Identity Hackathon.
   - [Verifiable Credential ZK Health Records](https://github.com/csalvador58/verifiable-credential-zk-health-record)
 - ✅ August 2023 - [Encode](https://www.encode.club/) ZK Bootcamp Q3 2023.
 - ✅ August 2023 - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
