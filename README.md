@@ -18,10 +18,11 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
   - 🥈 2nd place overall hackathon project winner
   - 🥉 3rd place for best use case and integration of [Magic](https://magic.link/)
 - ✅ October 2023 - [ETH Global](https://university.alchemy.com/) - ETHOnline 2023 Hackathon 🛠️💻.
-  - [Public Goods DAO Project: Help A Fren](https://github.com/csalvador58/help-a-fren/tree/main/app)
+  - 🏅 2nd Round Finalist - [Public Goods DAO Project: Help A Fren](https://github.com/csalvador58/help-a-fren/tree/main/app)
 - ✅ August 2023 - [Encode](https://www.encode.club/) Zero-Knowledge Program Q3 2023.
 - ✅ August 2023 - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
-- ✅ June 2023 - [University of Washington](https://www.pce.uw.edu/) Full-Stack development with Javascript certificate.
+  - An open community accelerator program.
+- ✅ June 2023 - [University of Washington](https://www.pce.uw.edu/) Full-Stack development with Javascript certificate 👨🏻‍🎓.
   - [Frontend Final Project: My Pantry](https://github.com/csalvador58/uw-jscript320b-final-project-my-pantry)
   - [Backend Final Project: Vendor Credentialing](https://github.com/csalvador58/uw-jscript330b-final-vendor-cred-backend)
 - ✅ April 2023 - [ETH Global](https://ethglobal.com/events/tokyo) Tokyo 2023 Hackathon 🛠️💻.
