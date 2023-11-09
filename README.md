@@ -18,7 +18,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
   - 🥈 2nd place overall hackathon project winner
   - 🥉 3rd place for best use case and integration of [Magic](https://magic.link/)
 - ✅ October 2023 - [ETH Global](https://university.alchemy.com/) - ETHOnline 2023 Hackathon 🛠️💻.
-  - 🏅 2nd Round Finalist - [Public Goods DAO Project: Help A Fren](https://github.com/csalvador58/help-a-fren/tree/main/app)
+  - 🏅 2nd Round Finalist - [Public Goods DAO Project: Help A Fren](https://ethglobal.com/showcase/help-a-fren-2nfbi)
 - ✅ August 2023 - [Encode](https://www.encode.club/) Zero-Knowledge Program Q3 2023.
 - ✅ August 2023 - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
   - An open community accelerator program.
