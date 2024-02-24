@@ -11,7 +11,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
-- ⌛ In Progress - Building Project.
+- ⌛ In Progress - Building MVP 🚀.
 - ✅ December 2023 - [Encode](https://www.encode.club/) AI Foundation.
 - ✅ November 2023 - [Encode - Onyx by J.P. Morgan](https://www.encode.club/digital-identity-hackathon) - Digital Identity Hackathon 🛠️💻.
   - [Digital Identity and Zero-Knowledge Project: Verifiable Credential ZK Health Records](https://github.com/csalvador58/verifiable-credential-zk-health-record)
