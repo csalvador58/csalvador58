@@ -11,6 +11,7 @@ Say hi to me on 👉 [Twitter](https://twitter.com/const_salvador) | [LinkedIn](
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
+- ⌛ Pending March 2024 - [Encode](https://www.encode.club/ai-bootcamp) AI Program Q2 2024.
 - ⌛ In Progress - Building MVP 🚀.
 - ✅ December 2023 - [Encode](https://www.encode.club/) AI Foundation.
 - ✅ November 2023 - [Encode - Onyx by J.P. Morgan](https://www.encode.club/digital-identity-hackathon) - Digital Identity Hackathon 🛠️💻.
