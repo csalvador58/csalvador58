@@ -11,6 +11,7 @@ Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [Li
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
+- ⌛ Pending - [ETH Global](https://ethglobal.com/events/scaling2024) - Scaling Ethereum 2024 Hackathon 🛠️💻.
 - ⌛ In Progress - March 2024 - [Encode](https://www.encode.club/ai-bootcamp) AI Program Q2 2024.
 - ⌛ In Progress - Building MVP 🚀.
 - ✅ December 2023 - [Encode](https://www.encode.club/) AI Foundation.
@@ -19,7 +20,7 @@ Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [Li
   - 🥇 1st place winner in Privacy category
   - 🥈 2nd place overall hackathon project winner
   - 🥉 3rd place for best use case and integration of [Magic](https://magic.link/)
-- ✅ October 2023 - [ETH Global](https://university.alchemy.com/) - ETHOnline 2023 Hackathon 🛠️💻.
+- ✅ October 2023 - [ETH Global](https://ethglobal.com/events/ethonline2023) - ETHOnline 2023 Hackathon 🛠️💻.
   - 🏅 2nd Round Finalist - [Public Goods DAO Project: Help A Fren](https://ethglobal.com/showcase/help-a-fren-2nfbi)
 - ✅ August 2023 - [Encode](https://www.encode.club/) Zero-Knowledge Program Q3 2023.
 - ✅ August 2023 - [MINA](https://minaprotocol.com/) - zkIgnite, Cohort 2.
