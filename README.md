@@ -11,7 +11,7 @@ Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [Li
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
-- ⌛ Pending - [ETH Global](https://ethglobal.com/events/scaling2024) - Scaling Ethereum 2024 Hackathon 🛠️💻.
+- ⌛ In Progress - [ETH Global](https://ethglobal.com/events/scaling2024) - Scaling Ethereum 2024 Hackathon 🛠️💻.
 - ⌛ In Progress - March 2024 - [Encode](https://www.encode.club/ai-bootcamp) AI Program Q2 2024.
 - ⌛ In Progress - Building MVP 🚀.
 - ✅ December 2023 - [Encode](https://www.encode.club/) AI Foundation.
