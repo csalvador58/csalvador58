@@ -16,7 +16,7 @@ Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [Li
   - [AI team project: StoryTime GPT](https://github.com/Encode-AI-Q1-2024-Team7/final-project-storyboard-gpt)
 - ✅ April 2024 - [ETH Global](https://ethglobal.com/events/scaling2024) - Scaling Ethereum 2024 Hackathon 🛠️💻.
   - ETH Global Showcase - [Nillion Healthcare](https://ethglobal.com/showcase/nillionhealthcare-b8t2c)
-  - [Watch Build on YouTube](https://www.youtube.com/playlist?list=PLUwryNZGBrXvewmBJzawdjHmGrX6BmwO4)
+  - [Watch Build on YouTube](https://www.youtube.com/playlist?list=PLUwryNZGBrXvewmBJzawdjHmGrX6BmwO4) ▶️
 - ✅ December 2023 - [Encode](https://www.encode.club/) AI Foundation.
 - ✅ November 2023 - [Encode - Onyx by J.P. Morgan](https://www.encode.club/digital-identity-hackathon) - Digital Identity Hackathon 🛠️💻.
   - [Digital Identity and Zero-Knowledge Project: Verifiable Credential ZK Health Records](https://github.com/csalvador58/verifiable-credential-zk-health-record)
