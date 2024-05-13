@@ -4,7 +4,7 @@ I'm a **developer**, a **tech enthusiast**, and **inspired by blockchain & crypt
 
 👨‍💻 [ChrisSalvador.dev](https://chrissalvador.dev)
 
-Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) | [Lens](https://www.lensfrens.xyz/csalvador.lens)
+Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) | [Lens](https://www.lensfrens.xyz/csalvador.lens) | [Youtube](https://www.youtube.com/channel/UCXVCZM6r4wf23uSSMwDTGqQ?sub_confirmation=1)
 
 #### #KeepPushing #NeverStopLearning
 
