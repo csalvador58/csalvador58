@@ -11,7 +11,7 @@ Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [Li
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
-- ⌛ In Progress - [Buildspace](https://buildspace.so/) S5 Nights & Weekends.
+- ✅ July 2024 [Buildspace](https://buildspace.so/) S5 Nights & Weekends.
 - ✅ April 2024 - [Encode](https://www.encode.club/ai-bootcamp) AI Program Q2 2024.
   - [AI team project: StoryTime GPT](https://github.com/Encode-AI-Q1-2024-Team7/final-project-storyboard-gpt)
 - ✅ April 2024 - Started a ▶️ [YouTube Channel](https://www.youtube.com/channel/UCXVCZM6r4wf23uSSMwDTGqQ?sub_confirmation=1).
