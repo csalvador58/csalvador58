@@ -1,16 +1,14 @@
-# gm, I'm Chris!
-
-I'm a **developer**, a **tech enthusiast**, and **inspired by blockchain & cryptography**. I'm open to connect with anyone who is along the same dev journey or if you find anything I can contribute to I'll be glad to bring my experiences from the Healthcare, Finance/Accounting, and Consumer Media Research industries. 
-
 👨‍💻 [ChrisSalvador.dev](https://chrissalvador.dev)
 
-Say hi to me on 👉 [X (fka Twitter)](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) | [Lens](https://www.lensfrens.xyz/csalvador.lens) | [Youtube](https://www.youtube.com/channel/UCXVCZM6r4wf23uSSMwDTGqQ?sub_confirmation=1)
+Say hi to me on 👉 [X](https://twitter.com/const_salvador) | [LinkedIn](https://linkedin.com/in/csalvador58) 
 
 #### #KeepPushing #NeverStopLearning
 
 #### 🏆 Level Up Status:
 
 <!-- BLOG-POST-LIST:START -->
+- ✅ 2026 - Focused on LangGraph and Microsoft Agent Framework.
+- ✅ 2025 - Focused on iOS/MLX. Launched [Field Area iOS App](https://apps.apple.com/us/app/field-area/id6757453817).
 - ✅ July 2024 [Buildspace](https://buildspace.so/) S5 Nights & Weekends.
 - ✅ April 2024 - [Encode](https://www.encode.club/ai-bootcamp) AI Program Q2 2024.
   - [AI team project: StoryTime GPT](https://github.com/Encode-AI-Q1-2024-Team7/final-project-storyboard-gpt)
