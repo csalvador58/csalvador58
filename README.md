@@ -8,7 +8,9 @@ Say hi to me on 👉 [X](https://twitter.com/const_salvador) | [LinkedIn](https:
 
 <!-- BLOG-POST-LIST:START -->
 - ✅ 2026 - Focused on LangGraph and Microsoft Agent Framework.
-- ✅ 2025 - Focused on iOS/MLX. Launched [Field Area iOS App](https://apps.apple.com/us/app/field-area/id6757453817).
+- ✅ 2026 - Launched [Field Area iOS App](https://apps.apple.com/us/app/field-area/id6757453817).
+- ✅ 2025 - Launched [Straight Tap App](https://apps.apple.com/us/app/straight-tab/id6744048285).
+- ✅ 2025 - Focused on iOS/MLX. 
 - ✅ July 2024 [Buildspace](https://buildspace.so/) S5 Nights & Weekends.
 - ✅ April 2024 - [Encode](https://www.encode.club/ai-bootcamp) AI Program Q2 2024.
   - [AI team project: StoryTime GPT](https://github.com/Encode-AI-Q1-2024-Team7/final-project-storyboard-gpt)
